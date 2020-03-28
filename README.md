@@ -2,4 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/59968647/77832229-40944e80-7113-11ea-96a3-3c5bae8113b3.png)
 
-O Be The Hero é uma aplicação para onde as ONG's de caridade de animais sem fins lucrativos, que visa 
+
+
+- O Be The Hero é uma aplicação voltada para as ONG's de caridade de animais, que visam expor os casos de animais que sofreram acidentes ou estão doentes e necessitam de uma quantia para realizar a cirurgia. Nessa aplicação, as ONG's podem se cadastrar informando os casos e o valor necessário para ser realizado a cirurgia, caso algum doador se interesse em ajudar com os custos.
