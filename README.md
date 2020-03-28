@@ -8,11 +8,11 @@
 
 # Linguagem, frameworks e ferramentas utilizadas
 
- -ReactJS
- -Hooks (useState, useEffect)
- -Express
- -React-icons
- -Font Roboto (da Google)
- -Axios (para as requisições com o nodejs)
- -Intl (internacionalização pra moeda brasileira)
+-ReactJS
+-Hooks (useState, useEffect)
+-Express
+-React-icons
+-Font Roboto (da Google)
+-Axios (para as requisições com o nodejs)
+-Intl (internacionalização pra moeda brasileira)
  
