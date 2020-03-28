@@ -9,6 +9,7 @@
 # Linguagem, frameworks e ferramentas utilizadas
 
 - ReactJS
+- Node.js 
 - Hooks (useState, useEffect)
 - Express
 - React-icons
